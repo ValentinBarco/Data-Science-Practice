@@ -24,10 +24,6 @@ Esto te ayudará a elegir la forma del modelo más adecuada.
 
 ## ✨ Indicadores de desempeño
 
-Al evaluar el modelo, reportá al menos las siguientes métricas:
-
 * **MAE** (Mean Absolute Error)
 * **RMSE** (Root Mean Squared Error)
 * **R²** (Coeficiente de determinación)
-
-Estas métricas te permitirán juzgar cuán bien está funcionando el modelo de predicción.
