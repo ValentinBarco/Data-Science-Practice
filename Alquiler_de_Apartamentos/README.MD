@@ -20,7 +20,6 @@ Evaluá qué tipo de modelo se ajusta mejor a los datos:
 
 Realizá **gráficos de dispersión** para ver la relación entre las variables
 
-Esto te ayudará a elegir la forma del modelo más adecuada.
 
 ## ✨ Indicadores de desempeño
 
