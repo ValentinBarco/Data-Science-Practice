@@ -67,7 +67,4 @@ Construir un modelo de **clasificación binaria** para detectar correos no desea
 - Algunas palabras como `george` o números como `650` pueden estar asociadas a correos legítimos por cómo se construyó el dataset.
 
 
-## 📌 Autor
-
-Valentin Barco
 
